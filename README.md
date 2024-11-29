@@ -1,8 +1,8 @@
 ## PDF-Language-Translation
 
-#step - 1 login & singup
+# step - 1 login & singup
 ![text](out1.png)
-#step - 2 upload document in the form of pdf 
+# step - 2 upload document in the form of pdf 
 ![text](out2.png)
 # Translation from marathi to hindi
 ![text](out3.png)
