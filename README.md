@@ -10,5 +10,5 @@
 ![text](out4.png)
 # Options of language translation are Hindi , English , Marathi
 ![text](out5.png)
-# All translation Libraries
+# All translation Libraries translation accuracy
 ![text](out6.png)
