@@ -1,3 +1,8 @@
 # PDF-Language-Translation
 
-# we are trying to solve the problem of multiligual pdf language translation.
+[text] (out1.png)
+(out2.png)
+(out3.png)
+(out4.png)
+(out5.png)
+(out6.png)
